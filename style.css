@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 199px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.lavender {
+    background-color: #CEA2FD;
+}
+
+.olive {
+    background-color: #98BF64;
+}
+
+.red {
+    background-color: #ffa9a9;
+}
+
+.blue {
+    background-color: #82cafa;
+}
+
+.flash {
+    background-color: azure;
+}
